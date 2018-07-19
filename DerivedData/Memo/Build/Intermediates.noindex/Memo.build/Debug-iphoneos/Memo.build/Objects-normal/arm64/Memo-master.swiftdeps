@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "1803f277fe318265d6121e59f8f925d9"
+build_time: [1532030468, 682048000]
+inputs:
+  "/Users/alexandre/Perso/Memo/Memo/ViewController.swift": [1532030465, 0]
+  "/Users/alexandre/Perso/Memo/Memo/AppDelegate.swift": [1532030465, 0]
